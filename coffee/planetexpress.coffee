@@ -1,6 +1,4 @@
-/*
-* URL: not yet published
-*/
+# URL: not yet published
 
 jQuery(document).ready ->
     dwg = new Drawing 2500, 1500
